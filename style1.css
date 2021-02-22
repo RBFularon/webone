@@ -1,0 +1,93 @@
+.partone{
+  background: blue;
+  border: solid;
+  border-width: medium;
+}
+
+
+
+
+.title{
+  color: orange;
+  text-align: center;
+  border: solid;
+  border-width: 5px;
+  border-radius: 5px;
+  position: inherit;
+  margin-left: 30%;
+  margin-right: 30%;
+
+}
+
+.cfish{
+  background-color: orange;
+}
+
+
+
+.contact-name{
+  margin-left: 200px;
+
+}
+
+
+
+
+.contact-space{
+  margin-bottom: 20px;
+background-color: orange;
+text-align: center;
+
+}
+
+.contact-message{
+
+width: 100px;
+background-color:#blue;
+  height: 500px;
+
+text-align: center;
+margin-left: 360px;
+
+
+}
+.contact-address{
+  text-align: center;
+  background-color: yellow;
+  height: 750px;
+  border: solid;
+  border-width: medium;
+}
+.contact-office{
+  margin-top: 20px;
+  border: outset;
+  margin-left: 30%;
+  margin-right: 30%;
+
+}
+.contact-map{
+  width: 65%;
+  height: 460px;
+}
+.contact-phone{
+  font-size: 20px;
+  border: ridge;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+h3{
+color: red;
+text-align: center;
+border: dashed;
+border-color: red;
+margin-left: 30%;
+margin-right: 30%;
+}
+h4{
+  color: red;
+  text-align: center;
+  border: dashed;
+  margin-left: 30%;
+  margin-right: 30%;
+
+}
